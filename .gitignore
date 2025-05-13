@@ -1,0 +1,8 @@
+*~
+.DS_Store
+*/.DS_Store
+logs
+*.log
+.ipynb_checkpoints/*
+*/.ipynb_checkpoints/*
+*/*/.ipynb_checkpoints/*
