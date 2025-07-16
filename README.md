@@ -4,7 +4,7 @@
 
 ## 關於亞洲事實査核實驗室
 
-亞洲事實査核實驗室（Asia Fact Check Lab, AFCL）是自由亞洲電台（Radio Free Asia, RFA）旗下的事實查核項目，專門針對亞洲地區的假訊息進行查證與分析。
+[亞洲事實査核實驗室（Asia Fact Check Lab, AFCL）](https://www.rfa.org/mandarin/shishi-hecha/)是自由亞洲電台（Radio Free Asia, RFA）旗下的事實查核項目，專門針對亞洲地區的假訊息進行查證與分析。
 
 ## 關閉背景
 
@@ -16,7 +16,7 @@
 
 ### 原始授權
 
-本備份專案中的所有內容均爬取自亞洲事實査核實驗室官方網站，原始內容版權歸自由亞洲電台（RFA）所有。根據RFA網站使用條款（https://www.rfa.org/mandarin/about/2024/11/21/terms-of-use/），文字內容可在以下條件下重複使用：
+本備份專案中的所有內容均爬取自亞洲事實査核實驗室官方網站，原始內容版權歸自由亞洲電台（RFA）所有。根據[RFA網站使用條款](https://www.rfa.org/mandarin/about/2024/11/21/terms-of-use/)，文字內容可在以下條件下重複使用：
 
 - 必須包含版權聲明
 - 不得改變或扭曲原意
